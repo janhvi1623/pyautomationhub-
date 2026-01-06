@@ -1,3 +1,3 @@
 # pyautomationhub-
-This is my feirst git repository
+This is my first git repository
 author: janhvi bhute
